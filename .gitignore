@@ -30,3 +30,6 @@ Session.vim
 
 #genereated static files
 public/
+
+# Local Netlify folder
+.netlify
